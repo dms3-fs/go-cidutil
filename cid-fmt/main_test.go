@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	c "github.com/ipfs/go-cid"
+	c "github.com/dms3-fs/go-cid"
 )
 
 func TestCidConv(t *testing.T) {

@@ -1,8 +1,8 @@
 package cidutil
 
 import (
-	cid "github.com/ipfs/go-cid"
-	mhash "github.com/multiformats/go-multihash"
+	cid "github.com/dms3-fs/go-cid"
+	mhash "github.com/dms3-mft/go-multihash"
 )
 
 // InlineBuilder is a cid.Builder that will use the id multihash when the

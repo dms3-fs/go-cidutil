@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 
-	c "github.com/ipfs/go-cid"
-	mb "github.com/multiformats/go-multibase"
-	mh "github.com/multiformats/go-multihash"
+	c "github.com/dms3-fs/go-cid"
+	mb "github.com/dms3-mft/go-multibase"
+	mh "github.com/dms3-mft/go-multihash"
 )
 
 // FormatRef is a string documenting the format string for the Format function
